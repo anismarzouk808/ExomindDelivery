@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exomind Delivery</string>
+
+
+    <string name="splash_label">Splash Screen</string>
+    <string name="main_label">Main Screen</string>
+    <string name="txt_delivery">Delivery</string>
+
+
+    <string name="btn_login">Logn In</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Mot de passe</string>
+
+
+</resources>
